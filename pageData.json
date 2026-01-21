@@ -1,0 +1,40 @@
+{
+  "socialLinks":
+  [
+    {
+      "name": "X",
+      "logo": "x.svg",
+      "url": "https://x.com/Mokaruii"
+    },
+    {
+      "name": "Twitch",
+      "logo": "twitch.svg",
+      "url": "https://www.twitch.tv/Mokarui"
+    },
+    {
+      "name": "Instagram",
+      "logo": "instagram.svg",
+      "url": "https://www.instagram.com/Mokaruii/"
+    },
+    {
+      "name": "Throne",
+      "logo": "throne.svg",
+      "url": "https://throne.com/Mokarui"
+    },
+    {
+      "name": "Discord",
+      "logo": "discord.svg",
+      "url": "https://discord.gg/Kpcu4y3JsF"
+    },
+    {
+      "name": "YouTube",
+      "logo": "youtube.svg",
+      "url": "https://www.youtube.com/channel/UC4wUzesTNV7S7DDTFEwhtBA"
+    },
+    {
+      "name": "TikTok",
+      "logo": "tiktok.svg",
+      "url": "https://www.tiktok.com/@Mokarui"
+    }
+  ]
+}
